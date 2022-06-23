@@ -1,2 +1,3 @@
-# RpcSharp
-Make RPC calls anywhere .NET Standard 2.0 is supported
+# AceRPC
+
+It's RPC and nothing else. Next generation, cross language, tiny and extremely flexible. 
